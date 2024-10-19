@@ -1,6 +1,3 @@
-# Let's create a README.md file with the content provided by the user
-
-content = """
 # 📊 Demographic Data Analysis and Area Classification
 
 **🔍 Project Overview**:  
