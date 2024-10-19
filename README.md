@@ -1,4 +1,4 @@
-# 📊 Demographic Data Analysis and Area Classification
+# 📊 Demographics of LSOA in England
 
 **🔍 Project Overview**:  
 This project focuses on analyzing demographic data from the 2021 Census for England, using data science techniques to uncover insights about population distribution by age and region.
