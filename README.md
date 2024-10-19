@@ -20,5 +20,4 @@ This project focuses on analyzing demographic data from the 2021 Census for Engl
 Python, Pandas, Matplotlib, GeoPandas
 
 🔗 [Check the full project on GitHub](https://github.com/Ericazzzzzz/Demographics-of-LSOA-in-England)
-"""
 
